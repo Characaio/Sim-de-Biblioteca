@@ -24,6 +24,6 @@ bin/
 
 ### VS Code ###
 .vscode/
-
+sample.db
 ### Mac OS ###
 .DS_Store
